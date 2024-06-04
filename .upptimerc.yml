@@ -9,10 +9,22 @@ sites:
     url: https://new-admin.abp.io/
   - name: New-Account
     url: https://new-account.abp.io/
+  - name: LeptonX
+    url: https://leptontheme.com/
+  - name: LeptonX-Demo-Side-Menu
+    url: https://x.leptontheme.com/side-menu
+  - name: LeptonX-Demo-Top-Menu
+    url: https://x.leptontheme.com/top-menu
+  - name: LeptonTheme-V1
+    url: https://v1.leptontheme.com/Layouts/Application/Dashboard/Dashboard
   - name: EshopOnAbp
     url: https://eshoponabp.com/
   - name: OpenEventHub
     url: https://www.openeventhub.com/
+  - name: Cms-Kit
+    url: https://cms-kit-demo.abpdemo.com/
+  - name: Easy-Crm
+    url: https://easycrm.abp.io/Account/Login
   - name: Mvc Commercial Test-App
     url: https://commercial-mvc-test-app.abpdemo.com/
   - name: Blazor-Server Commercial Test-App
