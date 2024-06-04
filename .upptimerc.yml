@@ -1,31 +1,57 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: skoc10 # Your GitHub organization or username, where this repository lives
+repo: status-websites # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: New abp.io
+    url: https://new.abp.io/
+  - name: New-Admin
+    url: https://new-admin.abp.io/
+  - name: New-Account
+    url: https://new-account.abp.io/
+  - name: EshopOnAbp
+    url: https://eshoponabp.com/
+  - name: OpenEventHub
+    url: https://www.openeventhub.com/
+  - name: Mvc Commercial Test-App
+    url: https://commercial-mvc-test-app.abpdemo.com/
+  - name: Blazor-Server Commercial Test-App
+    url: https://commercial-blazorserver-test-app.abpdemo.com/
+  - name: Blazor-WebAssembly Commercial Test-App
+    url: https://commercial-blazor-test-app.abpdemo.com/
+  - name: Angular Commercial Test-App
+    url: https://commercial-angular-test-app.abpdemo.com/
+  - name: www-test
+    url: https://www-test.abp.io/health-status
+  - name: support-test
+    url: https://support-test.abp.io/health-status
+  - name: blog-test
+    url: https://blog-test.abp.io/health-status
+  - name: docs-test
+    url: https://docs-test.abp.io/health-status
+  - name: community-test
+    url: https://community-test.abp.io/health-status
+  - name: commercial-test
+    url: https://commercial-test.abp.io/health-status
+  - name: account-test
+    url: https://account-test.abp.io/health-status
+
+
+assignees: # Users to assign downtime issues (optional)
+  - skoc10
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: status.abp.io
+  baseUrl: /status-websites
+  logoUrl: https://commercial.abp.io/assets/svg/abp-logo-light.svg
+  favicon: https://raw.githubusercontent.com/abpframework/abpio-status/master/assets/abp-logo-without-text.svg
+  faviconSvg: https://raw.githubusercontent.com/abpframework/abpio-status/master/assets/abp-logo-without-text.svg
+  name: Demo Status Websites   #abp.io status page
+  introTitle: "**abp.io status page**"
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
