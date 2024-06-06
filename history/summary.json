@@ -112,19 +112,19 @@
     "url": "https://commercial-blazorserver-test-app.abpdemo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/commercial-blazorserver-test-app.abpdemo.com.ico",
     "slug": "blazor-server-commercial-test-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 394,
-    "timeDay": 479,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 424,
+    "timeDay": 501,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2024-06-06": 0
+      "2024-06-06": 13
     }
   },
   {
