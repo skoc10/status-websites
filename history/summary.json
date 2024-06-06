@@ -112,18 +112,20 @@
     "url": "https://commercial-blazorserver-test-app.abpdemo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/commercial-blazorserver-test-app.abpdemo.com.ico",
     "slug": "blazor-server-commercial-test-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 423,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 394,
+    "timeDay": 479,
+    "timeWeek": 394,
+    "timeMonth": 394,
+    "timeYear": 394,
+    "dailyMinutesDown": {
+      "2024-06-06": 0
+    }
   },
   {
     "name": "Blazor-WebAssembly Commercial Test-App",
