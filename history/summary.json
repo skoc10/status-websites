@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1664,
     "timeDay": 1399,
-    "timeWeek": 1664,
+    "timeWeek": 1615,
     "timeMonth": 1664,
     "timeYear": 1664,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1588,
     "timeDay": 1443,
-    "timeWeek": 1588,
+    "timeWeek": 1590,
     "timeMonth": 1588,
     "timeYear": 1588,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 582,
     "timeDay": 116,
-    "timeWeek": 582,
+    "timeWeek": 580,
     "timeMonth": 582,
     "timeYear": 582,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1196,
     "timeDay": 1036,
-    "timeWeek": 1196,
+    "timeWeek": 1095,
     "timeMonth": 1196,
     "timeYear": 1196,
     "dailyMinutesDown": {}
@@ -76,18 +76,20 @@
     "url": "https://www.openeventhub.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.openeventhub.com.ico",
     "slug": "open-event-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 665,
-    "timeWeek": 667,
-    "timeMonth": 667,
-    "timeYear": 667,
-    "dailyMinutesDown": {}
+    "time": 2696,
+    "timeDay": 9801,
+    "timeWeek": 2939,
+    "timeMonth": 2696,
+    "timeYear": 2696,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
   },
   {
     "name": "Mvc Commercial Test-App",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 1094,
     "timeDay": 583,
-    "timeWeek": 1094,
+    "timeWeek": 695,
     "timeMonth": 1094,
     "timeYear": 1094,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 370,
-    "timeWeek": 429,
+    "timeWeek": 440,
     "timeMonth": 429,
     "timeYear": 429,
     "dailyMinutesDown": {}
@@ -138,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 351,
-    "timeWeek": 391,
+    "timeWeek": 403,
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {}
@@ -156,7 +158,7 @@
     "uptimeYear": "100.00%",
     "time": 396,
     "timeDay": 344,
-    "timeWeek": 396,
+    "timeWeek": 406,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {}
@@ -174,7 +176,7 @@
     "uptimeYear": "100.00%",
     "time": 842,
     "timeDay": 701,
-    "timeWeek": 842,
+    "timeWeek": 856,
     "timeMonth": 842,
     "timeYear": 842,
     "dailyMinutesDown": {}
@@ -192,7 +194,7 @@
     "uptimeYear": "100.00%",
     "time": 923,
     "timeDay": 827,
-    "timeWeek": 923,
+    "timeWeek": 946,
     "timeMonth": 923,
     "timeYear": 923,
     "dailyMinutesDown": {}
@@ -210,7 +212,7 @@
     "uptimeYear": "100.00%",
     "time": 669,
     "timeDay": 673,
-    "timeWeek": 669,
+    "timeWeek": 666,
     "timeMonth": 669,
     "timeYear": 669,
     "dailyMinutesDown": {}
@@ -228,7 +230,7 @@
     "uptimeYear": "100.00%",
     "time": 839,
     "timeDay": 900,
-    "timeWeek": 839,
+    "timeWeek": 836,
     "timeMonth": 839,
     "timeYear": 839,
     "dailyMinutesDown": {}
@@ -246,7 +248,7 @@
     "uptimeYear": "100.00%",
     "time": 1024,
     "timeDay": 916,
-    "timeWeek": 1024,
+    "timeWeek": 938,
     "timeMonth": 1024,
     "timeYear": 1024,
     "dailyMinutesDown": {}
@@ -264,7 +266,7 @@
     "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 827,
-    "timeWeek": 813,
+    "timeWeek": 828,
     "timeMonth": 813,
     "timeYear": 813,
     "dailyMinutesDown": {}
@@ -282,7 +284,7 @@
     "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 712,
-    "timeWeek": 552,
+    "timeWeek": 518,
     "timeMonth": 552,
     "timeYear": 552,
     "dailyMinutesDown": {}
