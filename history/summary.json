@@ -58,18 +58,20 @@
     "url": "https://eshoponabp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eshoponabp.com.ico",
     "slug": "eshop-on-abp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1196,
-    "timeDay": 1036,
-    "timeWeek": 1095,
-    "timeMonth": 1196,
-    "timeYear": 1196,
-    "dailyMinutesDown": {}
+    "time": 4376,
+    "timeDay": 15428,
+    "timeWeek": 4685,
+    "timeMonth": 4376,
+    "timeYear": 4376,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
   },
   {
     "name": "OpenEventHub",
@@ -77,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.openeventhub.com.ico",
     "slug": "open-event-hub",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2484,
     "timeDay": 6724,
     "timeWeek": 2676,
     "timeMonth": 2484,
     "timeYear": 2484,
-    "dailyMinutesDown": {
-      "2024-06-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mvc Commercial Test-App",
