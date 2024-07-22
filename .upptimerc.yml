@@ -34,17 +34,7 @@ sites:
   - name: Angular Commercial Test-App
     url: https://commercial-angular-test-app.abpdemo.com/
   - name: www-test
-  #   url: https://www-test.abp.io/health-status
-  # - name: support-test
-  #   url: https://support-test.abp.io/health-status
-  # - name: blog-test
-  #   url: https://blog-test.abp.io/health-status
-  # - name: docs-test
-  #   url: https://docs-test.abp.io/health-status
-  # - name: community-test
-  #   url: https://community-test.abp.io/health-status
-  # - name: commercial-test
-  #   url: https://commercial-test.abp.io/health-status
+    url: https://www-test.abp.io/health-status
   - name: account-test
     url: https://account-test.abp.io/health-status
   - name: admin-test
