@@ -1,7 +1,7 @@
 url: https://commercial-mvc-test-app.abpdemo.com/
-status: up
-code: 200
-responseTime: 580
-lastUpdated: 2024-10-26T23:20:17.892Z
+status: down
+code: 500
+responseTime: 677
+lastUpdated: 2024-10-27T13:54:45.347Z
 startTime: 2024-06-04T03:45:02.181Z
 generator: Upptime <https://github.com/upptime/upptime>
