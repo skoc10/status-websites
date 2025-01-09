@@ -1,7 +1,7 @@
 url: https://commercial-blazorserver-test-app.abpdemo.com/
-status: down
-code: 500
-responseTime: 13119
-lastUpdated: 2025-01-08T23:20:31.870Z
+status: up
+code: 200
+responseTime: 485
+lastUpdated: 2025-01-09T08:49:45.109Z
 startTime: 2024-06-04T03:45:03.145Z
 generator: Upptime <https://github.com/upptime/upptime>
