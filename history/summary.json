@@ -89,8 +89,8 @@
     "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.88%",
-    "uptimeMonth": "95.60%",
+    "uptimeWeek": "80.81%",
+    "uptimeMonth": "95.59%",
     "uptimeYear": "99.43%",
     "time": 653,
     "timeDay": 0,
@@ -98,7 +98,7 @@
     "timeMonth": 633,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-03-16": 40,
+      "2025-03-16": 47,
       "2025-03-15": 1440,
       "2025-03-14": 447
     }
@@ -109,11 +109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eshoponabp.com.ico",
     "slug": "eshop-on-abp",
     "status": "up",
-    "uptime": "94.24%",
+    "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.24%",
+    "uptimeYear": "94.25%",
     "time": 2173,
     "timeDay": 1135,
     "timeWeek": 977,
