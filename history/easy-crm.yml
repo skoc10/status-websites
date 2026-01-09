@@ -1,7 +1,7 @@
 url: https://easycrm.abp.io/Account/Login
-status: up
-code: 200
-responseTime: 1140
-lastUpdated: 2026-01-08T23:23:23.357Z
+status: down
+code: 502
+responseTime: 11156
+lastUpdated: 2026-01-09T07:14:26.409Z
 startTime: 2024-07-22T12:50:14.934Z
 generator: Upptime <https://github.com/upptime/upptime>
